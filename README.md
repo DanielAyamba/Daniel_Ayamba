@@ -33,11 +33,7 @@ This portfolio website serves as a professional online presence where I can disp
   - CSS3
   - JavaScript (ES6+)
   - Bootstrap
-  - jQuery
-
-- **Backend:**
-  - Node.js
-  - Express.js
+  - scss
 
 - **Others:**
   - Git & GitHub for version control
