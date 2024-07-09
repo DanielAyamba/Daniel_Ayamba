@@ -77,11 +77,8 @@ To get a local copy up and running follow these simple steps.
 
 ## Screenshots
 
-![Homepage](path/to/homepage-screenshot.png)
+![personal portfolio website homepage](https://github.com/DanielAyamba/Daniel_Ayamba/blob/main/Screenshots.jpg)
 *Screenshot of the homepage.*
-
-![Project Page](path/to/project-page-screenshot.png)
-*Screenshot of a project page.*
 
 ## Contributing
 
